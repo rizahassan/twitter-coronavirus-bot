@@ -1,0 +1,19 @@
+{
+    "country": "malaysia",
+    "latest_stat_by_country": [
+        {
+            "id": "200356",
+            "country_name": "Malaysia",
+            "total_cases": "1,796",
+            "new_cases": "172",
+            "active_cases": "1,578",
+            "total_deaths": "19",
+            "new_deaths": "3",
+            "total_recovered": "199",
+            "serious_critical": "64",
+            "region": null,
+            "total_cases_per1m": "55",
+            "record_date": "2020-03-25 15:10:02.032"
+        }
+    ]
+}
