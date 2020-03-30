@@ -7,9 +7,9 @@ To try the bot that I developed, please follow @YourCoronaBot on Twitter!
 
 ## Technologies used
 
-Language: Python
-Packages: TweepyAPI
-External APIs: Coronavirus monitor from RapidAPI
+-Language: Python
+-Packages: TweepyAPI
+-External APIs: Coronavirus monitor from RapidAPI
 
 ## How to use this project?
 
@@ -29,4 +29,4 @@ OPTIONAL
 ## License & Copyright
 
 © Riza Hassan
-This is a personal Open Source project. Feel free to clone the project. Contact Riza Hassan at ruhulruzbihan@gmail.com for more information.
+-This is a personal Open Source project. Feel free to clone the project. Contact Riza Hassan at ruhulruzbihan@gmail.com for more information.
