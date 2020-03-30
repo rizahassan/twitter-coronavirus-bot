@@ -14,10 +14,12 @@ To try the bot that I developed, please follow @YourCoronaBot on Twitter!
 ## How to use this project?
 
 1. Clone this repository to your local device.
-2. Register and get approved for a Twitter Developer Account at www.developer.twitter.com. \*Decide whether to use a personal account or create a separate Twitter account.
-3. Create an App on your Twitter Dev Acc.
-4. Get the app's Consumer key and Security key. Then, update the variables to the right keys. \*Variables are defined in the project
-5. Run the project :
+2. Install Python3 and pip.
+3. Install packages `pip install requests`
+4. Register and get approved for a Twitter Developer Account at www.developer.twitter.com. \*Decide whether to use a personal account or create a separate Twitter account.
+5. Create an App on your Twitter Dev Acc.
+6. Get the app's Consumer key and Security key. Then, update the variables to the right keys. \*Variables are defined in the project
+7. Run the project :
 
 E.g.
 `python3 reply.py`
