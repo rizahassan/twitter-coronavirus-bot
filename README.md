@@ -7,9 +7,9 @@ To try the bot that I developed, please follow @YourCoronaBot on Twitter!
 
 ## Technologies used
 
--Language: Python
--Packages: TweepyAPI
--External APIs: Coronavirus monitor from RapidAPI
+*Language: Python
+*Packages: TweepyAPI
+\*External APIs: Coronavirus monitor from RapidAPI
 
 ## How to use this project?
 
@@ -20,13 +20,19 @@ To try the bot that I developed, please follow @YourCoronaBot on Twitter!
 5. Run the project :
 
 E.g.
-"python3 reply.py"
+`python3 reply.py`
 
 OPTIONAL
 
 1. Use Amazon EC2/Heroku to deploy the project in the background.
 
+## Programs
+
+1. posting.py : Post a standard tweet.
+2. reply.py : Reply user's tweet with latest coronavirus stats of certain country when mentioned certain keywords such as "coronavirus usa".
+3. progress.py : Reply user's tweet with a country's Coronavirus progress. (Percentage between yesterday and today's active cases.)
+
 ## License & Copyright
 
 © Riza Hassan
--This is a personal Open Source project. Feel free to clone the project. Contact Riza Hassan at ruhulruzbihan@gmail.com for more information.
+\*This is a personal Open Source project. Feel free to clone and use the project. Contact Riza Hassan at ruhulruzbihan@gmail.com for more information.
